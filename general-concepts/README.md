@@ -33,5 +33,4 @@
 - [SOLID Design Principles in Java Application Development](https://www.jrebel.com/blog/solid-principles-in-java)
 - [A Solid Guide to SOLID Principles](https://www.baeldung.com/solid-principles)
 - [SOLID Principles with Javascript Examples](https://medium.com/@hayreddintuzel/solid-principles-with-examples-12f36f61796c)
-- [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#:~:text=SOLID%20is%20an%20acronym%20for,OOD)%20principles%20by%20Robert%20C.&text=O%20%2D%20Open%2Dclosed%20Principle,I%20%2D%20Interface%20Segregation%20Principle)
-- 
+- [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#:~:text=SOLID%20is%20an%20acronym%20for,OOD%20principles%20by%20Robert%20C.&text=O%20%2D%20Open%2Dclosed%20Principle,I%20%2D%20Interface%20Segregation%20Principle)
